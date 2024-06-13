@@ -16,12 +16,10 @@ public class selectionshort {
     int temp=smallest;
     smallest=arr[i];
     arr[i]=temp;
-    for (int num : arr) {
-        System.out.print(num + " ");
-    }
+   
      
         
-
+ 
 
         
       
